@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    float: right;
+    background-color: antiquewhite;
+}
+
+#daily-profit, #end-term, #total-accrual{
+    font-size: 1.2rem;
+}
