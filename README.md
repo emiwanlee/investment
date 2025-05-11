@@ -1,0 +1,1 @@
+This is a project that consist of what i am going to add to my HYIP project in the future. It is an input with a button, just put the amount that you are investing and it will give you the amount that you will be expecting daily weekly and at the end of the investment days.
